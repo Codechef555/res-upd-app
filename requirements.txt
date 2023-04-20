@@ -118,4 +118,4 @@ Wand==0.6.11
 wasabi==1.1.1
 watchdog==2.3.0
 Werkzeug==2.2.2
-wrapt==1.14.1
+wrapt==1.12.1
