@@ -55,7 +55,6 @@ PyJWT==2.6.0
 pymongo==4.3.3
 Pympler==1.0.1
 pyparsing==3.0.9
-PyPDF2==3.0.1
 pyrsistent==0.19.3
 python-dateutil==2.8.2
 python-dotenv==1.0.0
@@ -93,7 +92,7 @@ tornado==6.2
 tqdm==4.64.1
 twilio==7.16.4
 typer==0.4.0
-typing_extensions==3.10.0.0
+typing_extensions==3.10.0.1
 tzdata==2022.7
 tzlocal==4.2
 urllib3==1.26.14
