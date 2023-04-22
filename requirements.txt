@@ -1,4 +1,4 @@
-﻿absl-py==1.4.0
+﻿absl-py==.10
 altair==4.2.2
 asgiref==3.6.0
 attrs==22.2.0
