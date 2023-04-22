@@ -39,7 +39,6 @@ murmurhash==1.0.9
 numpy==1.19.5
 oauthlib==3.2.2
 packaging==23.0
-pandas==1.5.3
 pathy==0.10.1
 pdfminer.six==20221105
 pdfplumber==0.8.0
