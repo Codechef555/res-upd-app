@@ -91,7 +91,7 @@ tornado==6.2
 tqdm==4.64.1
 twilio==7.16.4
 typer==0.4.0
-typing_extensions==3.10.0.1
+typing_extensions==3.10.0.2
 tzdata==2022.7
 tzlocal==4.2
 urllib3==1.26.14
