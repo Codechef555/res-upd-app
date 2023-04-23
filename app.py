@@ -143,6 +143,6 @@ def app():
                         st.warning("The candidate is not qualified.")
                         st.write(f"Sorry {user_data['name']}, resume does not match the job description.")
                 else:
-                    st.warning("The candidate has LESS CGPA so tata!")
+                    st.warning("The candidate has LESS CGPA so the candidate is not eligible for the role")
 if __name__ == '__main__':
     app()
